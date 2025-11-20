@@ -14,7 +14,7 @@
 
 ### 👨‍💻 About Me
 - 🎓 B.Tech CSE @ **NIT Patna** (2026)
-- 👨‍💻 SDE Intern @ **NHPC Ltd.** | Ex-Intern @ **Netweb Technologies**
+- 👨‍💻 Ex-SDE Intern @ **NHPC Ltd.** | Ex-Intern @ **Netweb Technologies**
 - 🌐 Passionate about **Full Stack Development**, **Agentic AI and Machine Learning**, and **Basically every CS Concept**
 - 🧠 Solved **800+ DSA problems** on Leetcode, Codeforces, CodeChef, etc.
 - 🛠️ Always building, learning, and breaking stuff (intentionally 😉)
